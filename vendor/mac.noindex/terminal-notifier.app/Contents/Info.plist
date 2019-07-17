@@ -11,7 +11,7 @@
 	<key>CFBundleIconFile</key>
 	<string>YAC</string>
 	<key>CFBundleIdentifier</key>
-	<string>nl.superalloy.oss.</string>
+	<string>nl.superalloy.oss.terminal-notifier</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -27,7 +27,7 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>777</string>
+	<string>12</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

@@ -38,7 +38,7 @@ NotificationCenter.prototype.notify = function(options, callback) {
   activeId = id;
 
   if (typeof options === 'string') {
-    options = { title: 'node-notifier', message: options };
+    options = { title: 'YAC', message: options };
   }
   callback = callback || noop;
 
