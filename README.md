@@ -1,0 +1,1 @@
+This is a fork of the famous node-notifier at [YAC](https://www.yac.chat)
