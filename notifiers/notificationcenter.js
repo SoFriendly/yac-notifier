@@ -4,7 +4,7 @@
 var utils = require('../lib/utils');
 var Growl = require('./growl');
 var path = require('path');
-var notifier = path.join(__dirname, '../vendor/mac.noindex/terminal-notifer');
+var notifier = path.join(__dirname, '../vendor/mac.noindex/terminal-notifier');
 
 var EventEmitter = require('events').EventEmitter;
 var util = require('util');
