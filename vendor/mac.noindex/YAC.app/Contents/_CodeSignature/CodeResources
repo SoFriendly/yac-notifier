@@ -4,6 +4,14 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/YAC-Info.plist</key>
+		<data>
+		Xmg/qFiGR3HKeppsXT6w2/5oZxY=
+		</data>
+		<key>Resources/YAC.icns</key>
+		<data>
+		M/WLEMuUGvKSit4sznUAMdzwXR8=
+		</data>
 		<key>Resources/en.lproj/Credits.rtf</key>
 		<dict>
 			<key>hash</key>
@@ -31,13 +39,31 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/terminal-notifier.icns</key>
-		<data>
-		M/WLEMuUGvKSit4sznUAMdzwXR8=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Resources/YAC-Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Xmg/qFiGR3HKeppsXT6w2/5oZxY=
+			</data>
+			<key>hash2</key>
+			<data>
+			SAyQi1H0oOx0FmGnmMOhAlfql6Ap3NBvxpUSFvFiTkw=
+			</data>
+		</dict>
+		<key>Resources/YAC.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M/WLEMuUGvKSit4sznUAMdzwXR8=
+			</data>
+			<key>hash2</key>
+			<data>
+			9yWaIwSujgEksVOepzhvgSxCb054tNHGCgsPONMiIYQ=
+			</data>
+		</dict>
 		<key>Resources/en.lproj/Credits.rtf</key>
 		<dict>
 			<key>hash</key>
@@ -76,17 +102,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>Resources/terminal-notifier.icns</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			M/WLEMuUGvKSit4sznUAMdzwXR8=
-			</data>
-			<key>hash2</key>
-			<data>
-			9yWaIwSujgEksVOepzhvgSxCb054tNHGCgsPONMiIYQ=
-			</data>
 		</dict>
 	</dict>
 	<key>rules</key>
