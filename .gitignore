@@ -14,3 +14,4 @@ package-lock.json
 ESLINT-ERRORS.log*
 .vscode
 yarn.lock
+node_modules
